@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://blog.leefer.co/"/>
   <updated>2020-03-15T12:47:58.913Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://blog.leefer.co/</id>
   
   <author>
     <name>leefer</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/15/hello-world/"/>
-    <id>http://yoursite.com/2020/03/15/hello-world/</id>
+    <link href="https://blog.leefer.co/2020/03/15/hello-world/"/>
+    <id>https://blog.leefer.co/2020/03/15/hello-world/</id>
     <published>2020-03-15T12:47:58.913Z</published>
     <updated>2020-03-15T12:47:58.913Z</updated>
     
